@@ -1,0 +1,22 @@
+@import "./mixins/button";
+
+.modal-body, .search-options{
+    .el-select{
+        width: 100%;
+        .el-input__inner:hover{
+            cursor: text !important;
+        }
+    }
+}
+
+.info-section{
+    .el-select {
+        margin: 0px !important;
+    }
+}
+
+.el-select-dropdown__item{
+    span{
+        color: #000000;
+    }
+}

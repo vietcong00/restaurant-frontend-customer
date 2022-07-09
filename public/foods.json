@@ -1,0 +1,28 @@
+{"data": {
+    "foods": [
+      {
+        "id":1 ,
+        "name": "Beefsteak",
+        "imgLink": "../../../assets/images/menu1.jpg",
+        "price": "350.000 VNĐ"
+      },
+      {
+        "id": 2,
+        "name": "Paella",
+        "imgLink": "../../../assets/images/menu2.jpg",
+        "price": "300.000 VNĐ"
+      },  {
+        "id": 3,
+        "name": "Nem Hải Sản",
+        "imgLink": "../../../assets/images/menu3.jpg",
+        "price": "150.000 VNĐ"
+      },  {
+        "id":4 ,
+        "name": "Phở bò",
+        "imgLink": "../../../assets/images/menu4.jpg",
+        "price": "100.000 VNĐ"
+      }
+    ],
+    "totalItems": 19
+  }
+}

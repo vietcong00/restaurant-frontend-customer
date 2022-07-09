@@ -1,0 +1,19 @@
+@import './var.scss';
+
+@include b(dropdown-menu) {
+  @include e(item) {
+    &:not(.is-disabled):hover, &:focus {
+      color: $--color-text-regular;
+    }
+  }
+}
+
+.el-select-dropdown{
+  .get-more-category-btn{
+    padding: 10px 20px;
+    color: rgb(4, 29, 255);
+    font-weight: 600;
+    font-size: 14px;
+    cursor: pointer;
+  }
+}

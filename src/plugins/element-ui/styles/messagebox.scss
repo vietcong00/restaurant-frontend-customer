@@ -1,0 +1,21 @@
+@import "./mixins/button";
+
+.el-message-box__title{
+    span{
+        color: #000000;
+        font-weight: 700;
+    }
+}
+
+.el-message-box__message{
+    p{
+        color: #000000
+    }
+}
+
+.el-button--default{
+    color: #ffffff;
+    &:hover{
+        box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    }
+}

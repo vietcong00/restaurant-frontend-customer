@@ -1,0 +1,36 @@
+{"data": {
+    "products": [
+      {
+        "id": 6,
+        "name": "Agito",
+        "descriptions": "Second",
+        "idCategory": 2
+      },
+      {
+        "id": 9,
+        "name": "Blade",
+        "descriptions": "Tachibana-san",
+        "idCategory": 2
+      },
+      {
+        "id": 18,
+        "name": "Blades",
+        "descriptions": "vantho",
+        "idCategory": 4
+      },
+      {
+        "id": 15,
+        "name": "Build",
+        "descriptions": "Physical",
+        "idCategory": 3
+      },
+      {
+        "id": 11,
+        "name": "Decade",
+        "descriptions": "Decabu",
+        "idCategory": 2
+      }
+    ],
+    "totalItems": 19
+  }
+}

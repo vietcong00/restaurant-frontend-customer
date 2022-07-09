@@ -1,0 +1,22 @@
+{"data": {
+    "categories": [
+      {
+        "id": 1,
+        "name": "Laptop"
+      },
+      {
+        "id": 2,
+        "name": "Kamenrider Heisei 1.0"
+      },
+      {
+        "id": 3,
+        "name": "Kamenrider Heisei 2.0"
+      },
+      {
+        "id": 4,
+        "name": "Kamenrider Showa"
+      }
+    ],
+    "totalItems": 4
+  }
+}

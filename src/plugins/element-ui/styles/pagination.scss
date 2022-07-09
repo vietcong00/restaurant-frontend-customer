@@ -1,0 +1,20 @@
+@import './var.scss';
+
+.header-options-table {
+    li, button {
+        height: 36px !important;
+        width: 36px !important;
+        padding: 3px !important;
+        border: 2px solid #a2a6b0 !important;
+        border-radius: 18px !important;
+        color: #a2a6b0 !important;
+        font-weight: 600 !important;
+        font-size: 13px !important;
+        background-color: #fff !important;
+    }
+    .active {
+        border: 2px solid #f5f7ff !important;
+        color: #000 !important;
+        background-color: #f5f7ff !important;
+    }
+}

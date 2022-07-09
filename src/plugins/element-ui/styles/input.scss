@@ -1,0 +1,18 @@
+@import "./mixins/button";
+
+.modal-body{
+    .el-input__validateIcon {
+        display: none;
+    }
+}
+
+.rule-form-booking{
+    .el-select{
+        width: 300px;
+        margin-right: 20px !important;
+    }
+
+    .el-input {
+        width: 300px;
+    }
+}
